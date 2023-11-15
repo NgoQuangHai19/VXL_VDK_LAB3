@@ -1,0 +1,5 @@
+red_mode.c:8:6:redBlinking	8	static
+red_mode.c:28:6:displayLed7SegmentRedMode	8	static
+red_mode.c:49:6:addTimeRed	4	static
+red_mode.c:58:6:setTimeRed	4	static
+red_mode.c:62:6:redMode	8	static

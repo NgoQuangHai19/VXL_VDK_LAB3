@@ -1,0 +1,5 @@
+yellow_mode.c:8:6:yellowBlinking	8	static
+yellow_mode.c:28:6:displayLed7SegmentYellowMode	8	static
+yellow_mode.c:51:6:addTimeYellow	4	static
+yellow_mode.c:60:6:setTimeYellow	4	static
+yellow_mode.c:70:6:yellowMode	8	static

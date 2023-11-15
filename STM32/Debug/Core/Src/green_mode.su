@@ -1,0 +1,5 @@
+green_mode.c:8:6:greenBlinking	8	static
+green_mode.c:28:6:displayLed7SegmentGreenMode	8	static
+green_mode.c:51:6:addTimeGreen	4	static
+green_mode.c:60:6:setTimeGreen	4	static
+green_mode.c:70:6:greenMode	8	static
